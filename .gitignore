@@ -1,0 +1,4 @@
+claude_out.json
+verify.log
+.claude/
+.vercel/
